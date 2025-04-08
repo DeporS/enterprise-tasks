@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Krzychu
+Build-Jdk: 17.0.13
+
