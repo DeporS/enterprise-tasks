@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Programing\\Enterprise\\WebApiAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|n:\\programing\\enterprise\\webapiajax\\webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|n:\\programing\\enterprise\\webapiajax\\webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|n:\\programing\\enterprise\\webapiajax\\webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8CE5F1-0226-475A-935D-41362ADA1331}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApiAjax\\wwwroot\\index.html",
+              "ToolTip": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApiAjax\\wwwroot\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-22T10:20:58.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiAjax\\Program.cs",
+              "ToolTip": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\Program.cs",
+              "RelativeToolTip": "WebApiAjax\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:12:43.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcResult.cs",
+              "DocumentMoniker": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\CalcResult.cs",
+              "RelativeDocumentMoniker": "WebApiAjax\\CalcResult.cs",
+              "ToolTip": "N:\\Programing\\Enterprise\\WebApiAjax\\WebApiAjax\\CalcResult.cs",
+              "RelativeToolTip": "WebApiAjax\\CalcResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:12:05.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
